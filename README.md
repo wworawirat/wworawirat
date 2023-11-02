@@ -1,4 +1,4 @@
-# didactic-eureka
+# wworawirat
 - 👋 Hi, I’m Wirunwit Worawirat
 - 👀 I’m interested in Quantum Physics
 - 🎓 I'm a physics student @Mahidol University, TH 🇹🇭
